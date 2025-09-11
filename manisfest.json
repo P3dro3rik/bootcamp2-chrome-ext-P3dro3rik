@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Stopwatch Extension",
+    "version": "0.0.1",
+    "descrition": "Minha primeira extensão para do Google Chrome",
+    "action": {
+        "default_popup": "popup.html",
+        "default_tittle": "Abrir Cronômetro"
+        },
+        "permissions": []
+    }
+
