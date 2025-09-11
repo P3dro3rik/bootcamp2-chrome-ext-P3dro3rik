@@ -11,7 +11,7 @@ function updateTime() {
     let mins = Math.floor((seconds % 3600) / 60);
     let secs = seconds % 60;
 
-    timeEl.textContent = 
+    timeEL.textContent = 
         `${hrs.toString().padStart(2, "0")}:${mins.toString().padStart(2, "0")}:${secs.toString().padStart(2, "0")}`;
 }
 
