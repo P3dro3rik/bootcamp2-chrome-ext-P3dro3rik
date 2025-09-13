@@ -1,0 +1,30 @@
+Stopwatch Extension ⏱️
+Uma extensão simples para Chrome que fornece um cronômetro funcional diretamente no seu navegador.
+
+📋 Descrição
+Esta extensão adiciona um cronômetro prático e fácil de usar ao Chrome. Com um design minimalista e funcionalidades essenciais, é perfeito para controlar o tempo de atividades sem sair do navegador.
+
+🚀 Funcionalidades
+⏱️ Cronômetro com contagem de horas, minutos e segundos
+
+▶️ Botão "Iniciar" para começar a contagem
+
+⏹️ Botão "Parar" para pausar a contagem
+
+🔄 Botão "Zerar" para reiniciar o cronômetro
+
+🎨 Interface simples e intuitiva
+
+📱 Design responsivo que se adapta ao tamanho da popup
+
+🛠️ Instalação
+Faça o download ou clone este repositório
+
+Abra o Chrome e navegue até chrome://extensions/
+
+Ative o "Modo do desenvolvedor" no canto superior direito
+
+Clique em "Carregar sem compactação" e selecione a pasta da extensão
+
+📄 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para modificá-lo e distribuí-lo.
